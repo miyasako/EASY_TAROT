@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="card">
+    <item>@drawable/chariot</item>
+    <item>@drawable/death</item>
+    <item>@drawable/devil</item>
+    <item>@drawable/emperor</item>
+    <item>@drawable/empress</item>
+    <item>@drawable/fool</item>
+    <item>@drawable/hanged_man</item>
+    <item>@drawable/hermit</item>
+    <item>@drawable/hierophant</item>
+    <item>@drawable/high_priestess</item>
+    <item>@drawable/judgement</item>
+    <item>@drawable/justice</item>
+    <item>@drawable/lovers</item>
+    <item>@drawable/magician</item>
+    <item>@drawable/moon</item>
+    <item>@drawable/star</item>
+    <item>@drawable/strength</item>
+    <item>@drawable/sun</item>
+    <item>@drawable/temperance</item>
+    <item>@drawable/tower</item>
+    <item>@drawable/wheel_of_fortune</item>
+    <item>@drawable/chariot_r</item>
+    <item>@drawable/death_r</item>
+    <item>@drawable/devil_r</item>
+    <item>@drawable/emperor_r</item>
+    <item>@drawable/empress_r</item>
+    <item>@drawable/fool_r</item>
+    <item>@drawable/hanged_man_r</item>
+    <item>@drawable/hermit_r</item>
+    <item>@drawable/hierophant_r</item>
+    <item>@drawable/high_priestess_r</item>
+    <item>@drawable/judgement_r</item>
+    <item>@drawable/justice_r</item>
+    <item>@drawable/lovers_r</item>
+    <item>@drawable/magician_r</item>
+    <item>@drawable/moon_r</item>
+    <item>@drawable/star_r</item>
+    <item>@drawable/strength_r</item>
+    <item>@drawable/sun_r</item>
+    <item>@drawable/temperance_r</item>
+    <item>@drawable/tower_r</item>
+    <item>@drawable/wheel_of_fortune_r</item>
+    <item>@drawable/world_r</item>
+    <item>@drawable/back</item>
+    </array>
+
+</resources>
