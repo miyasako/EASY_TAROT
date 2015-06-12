@@ -69,7 +69,7 @@ public class CARD {
         }
     }
 
-    protected void Select_Side3() {  //カードの正位置かどうかの判定3
+    protected void Select_Side3() {
         int a = random.nextInt(2);
 
         if (a == 0) {
